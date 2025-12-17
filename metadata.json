@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Resume Architect",
+  "description": "A professional resume builder powered by Gemini. Features real-time ATS analysis, job description matching, and industry-specific content generation.",
+  "requestFramePermissions": []
+}
